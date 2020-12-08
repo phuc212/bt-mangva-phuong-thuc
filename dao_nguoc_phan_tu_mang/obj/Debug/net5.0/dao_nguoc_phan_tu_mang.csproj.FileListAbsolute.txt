@@ -1,0 +1,16 @@
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\bin\Debug\net5.0\dao_nguoc_phan_tu_mang.exe
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\bin\Debug\net5.0\dao_nguoc_phan_tu_mang.deps.json
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\bin\Debug\net5.0\dao_nguoc_phan_tu_mang.runtimeconfig.json
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\bin\Debug\net5.0\dao_nguoc_phan_tu_mang.runtimeconfig.dev.json
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\bin\Debug\net5.0\dao_nguoc_phan_tu_mang.dll
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\bin\Debug\net5.0\ref\dao_nguoc_phan_tu_mang.dll
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\bin\Debug\net5.0\dao_nguoc_phan_tu_mang.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\obj\Debug\net5.0\dao_nguoc_phan_tu_mang.csprojAssemblyReference.cache
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\obj\Debug\net5.0\dao_nguoc_phan_tu_mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\obj\Debug\net5.0\dao_nguoc_phan_tu_mang.AssemblyInfoInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\obj\Debug\net5.0\dao_nguoc_phan_tu_mang.AssemblyInfo.cs
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\obj\Debug\net5.0\dao_nguoc_phan_tu_mang.csproj.CoreCompileInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\obj\Debug\net5.0\dao_nguoc_phan_tu_mang.dll
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\obj\Debug\net5.0\ref\dao_nguoc_phan_tu_mang.dll
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\obj\Debug\net5.0\dao_nguoc_phan_tu_mang.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\dao_nguoc_phan_tu_mang\obj\Debug\net5.0\dao_nguoc_phan_tu_mang.genruntimeconfig.cache
