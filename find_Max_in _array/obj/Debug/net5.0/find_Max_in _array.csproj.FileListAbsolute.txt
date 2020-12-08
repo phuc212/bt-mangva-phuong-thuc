@@ -1,0 +1,16 @@
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\bin\Debug\net5.0\find_Max_in _array.exe
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\bin\Debug\net5.0\find_Max_in _array.deps.json
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\bin\Debug\net5.0\find_Max_in _array.runtimeconfig.json
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\bin\Debug\net5.0\find_Max_in _array.runtimeconfig.dev.json
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\bin\Debug\net5.0\find_Max_in _array.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\bin\Debug\net5.0\ref\find_Max_in _array.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\bin\Debug\net5.0\find_Max_in _array.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\obj\Debug\net5.0\find_Max_in _array.csprojAssemblyReference.cache
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\obj\Debug\net5.0\find_Max_in _array.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\obj\Debug\net5.0\find_Max_in _array.AssemblyInfoInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\obj\Debug\net5.0\find_Max_in _array.AssemblyInfo.cs
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\obj\Debug\net5.0\find_Max_in _array.csproj.CoreCompileInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\obj\Debug\net5.0\find_Max_in _array.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\obj\Debug\net5.0\ref\find_Max_in _array.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\obj\Debug\net5.0\find_Max_in _array.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\find_Max_in _array\obj\Debug\net5.0\find_Max_in _array.genruntimeconfig.cache
