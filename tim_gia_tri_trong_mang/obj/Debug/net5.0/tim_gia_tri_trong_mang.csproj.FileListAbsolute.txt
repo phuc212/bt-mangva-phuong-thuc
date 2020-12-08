@@ -1,0 +1,16 @@
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\bin\Debug\net5.0\tim_gia_tri_trong_mang.exe
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\bin\Debug\net5.0\tim_gia_tri_trong_mang.deps.json
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\bin\Debug\net5.0\tim_gia_tri_trong_mang.runtimeconfig.json
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\bin\Debug\net5.0\tim_gia_tri_trong_mang.runtimeconfig.dev.json
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\bin\Debug\net5.0\tim_gia_tri_trong_mang.dll
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\bin\Debug\net5.0\ref\tim_gia_tri_trong_mang.dll
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\bin\Debug\net5.0\tim_gia_tri_trong_mang.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\obj\Debug\net5.0\tim_gia_tri_trong_mang.csprojAssemblyReference.cache
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\obj\Debug\net5.0\tim_gia_tri_trong_mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\obj\Debug\net5.0\tim_gia_tri_trong_mang.AssemblyInfoInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\obj\Debug\net5.0\tim_gia_tri_trong_mang.AssemblyInfo.cs
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\obj\Debug\net5.0\tim_gia_tri_trong_mang.csproj.CoreCompileInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\obj\Debug\net5.0\tim_gia_tri_trong_mang.dll
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\obj\Debug\net5.0\ref\tim_gia_tri_trong_mang.dll
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\obj\Debug\net5.0\tim_gia_tri_trong_mang.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\tim_gia_tri_trong_mang\obj\Debug\net5.0\tim_gia_tri_trong_mang.genruntimeconfig.cache
