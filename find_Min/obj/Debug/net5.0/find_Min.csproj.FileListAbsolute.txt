@@ -1,0 +1,16 @@
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\bin\Debug\net5.0\find_Min.exe
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\bin\Debug\net5.0\find_Min.deps.json
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\bin\Debug\net5.0\find_Min.runtimeconfig.json
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\bin\Debug\net5.0\find_Min.runtimeconfig.dev.json
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\bin\Debug\net5.0\find_Min.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\bin\Debug\net5.0\ref\find_Min.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\bin\Debug\net5.0\find_Min.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\obj\Debug\net5.0\find_Min.csprojAssemblyReference.cache
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\obj\Debug\net5.0\find_Min.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\obj\Debug\net5.0\find_Min.AssemblyInfoInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\obj\Debug\net5.0\find_Min.AssemblyInfo.cs
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\obj\Debug\net5.0\find_Min.csproj.CoreCompileInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\obj\Debug\net5.0\find_Min.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\obj\Debug\net5.0\ref\find_Min.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\obj\Debug\net5.0\find_Min.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\find_Min\obj\Debug\net5.0\find_Min.genruntimeconfig.cache
