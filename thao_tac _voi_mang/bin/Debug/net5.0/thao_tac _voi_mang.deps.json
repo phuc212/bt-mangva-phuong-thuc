@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "thao_tac _voi_mang/1.0.0": {
+        "runtime": {
+          "thao_tac _voi_mang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "thao_tac _voi_mang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
