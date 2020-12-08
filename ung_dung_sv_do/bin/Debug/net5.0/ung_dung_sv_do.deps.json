@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ung_dung_sv_do/1.0.0": {
+        "runtime": {
+          "ung_dung_sv_do.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ung_dung_sv_do/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

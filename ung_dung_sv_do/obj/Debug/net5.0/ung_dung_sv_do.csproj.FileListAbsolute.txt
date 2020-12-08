@@ -1,0 +1,16 @@
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\bin\Debug\net5.0\ung_dung_sv_do.exe
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\bin\Debug\net5.0\ung_dung_sv_do.deps.json
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\bin\Debug\net5.0\ung_dung_sv_do.runtimeconfig.json
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\bin\Debug\net5.0\ung_dung_sv_do.runtimeconfig.dev.json
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\bin\Debug\net5.0\ung_dung_sv_do.dll
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\bin\Debug\net5.0\ref\ung_dung_sv_do.dll
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\bin\Debug\net5.0\ung_dung_sv_do.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\obj\Debug\net5.0\ung_dung_sv_do.csprojAssemblyReference.cache
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\obj\Debug\net5.0\ung_dung_sv_do.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\obj\Debug\net5.0\ung_dung_sv_do.AssemblyInfoInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\obj\Debug\net5.0\ung_dung_sv_do.AssemblyInfo.cs
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\obj\Debug\net5.0\ung_dung_sv_do.csproj.CoreCompileInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\obj\Debug\net5.0\ung_dung_sv_do.dll
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\obj\Debug\net5.0\ref\ung_dung_sv_do.dll
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\obj\Debug\net5.0\ung_dung_sv_do.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\ung_dung_sv_do\obj\Debug\net5.0\ung_dung_sv_do.genruntimeconfig.cache
