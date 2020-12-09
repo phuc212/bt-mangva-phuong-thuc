@@ -1,0 +1,16 @@
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\obj\Debug\net5.0\tinh_tong _duong_cheo.csprojAssemblyReference.cache
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\obj\Debug\net5.0\tinh_tong _duong_cheo.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\obj\Debug\net5.0\tinh_tong _duong_cheo.AssemblyInfoInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\obj\Debug\net5.0\tinh_tong _duong_cheo.AssemblyInfo.cs
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\obj\Debug\net5.0\tinh_tong _duong_cheo.csproj.CoreCompileInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\bin\Debug\net5.0\tinh_tong _duong_cheo.exe
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\bin\Debug\net5.0\tinh_tong _duong_cheo.deps.json
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\bin\Debug\net5.0\tinh_tong _duong_cheo.runtimeconfig.json
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\bin\Debug\net5.0\tinh_tong _duong_cheo.runtimeconfig.dev.json
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\bin\Debug\net5.0\tinh_tong _duong_cheo.dll
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\bin\Debug\net5.0\ref\tinh_tong _duong_cheo.dll
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\bin\Debug\net5.0\tinh_tong _duong_cheo.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\obj\Debug\net5.0\tinh_tong _duong_cheo.dll
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\obj\Debug\net5.0\ref\tinh_tong _duong_cheo.dll
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\obj\Debug\net5.0\tinh_tong _duong_cheo.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\tinh_tong _duong_cheo\obj\Debug\net5.0\tinh_tong _duong_cheo.genruntimeconfig.cache
