@@ -1,0 +1,16 @@
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\obj\Debug\net5.0\find_max_2chieu.csprojAssemblyReference.cache
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\obj\Debug\net5.0\find_max_2chieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\obj\Debug\net5.0\find_max_2chieu.AssemblyInfoInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\obj\Debug\net5.0\find_max_2chieu.AssemblyInfo.cs
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\obj\Debug\net5.0\find_max_2chieu.csproj.CoreCompileInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\bin\Debug\net5.0\find_max_2chieu.exe
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\bin\Debug\net5.0\find_max_2chieu.deps.json
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\bin\Debug\net5.0\find_max_2chieu.runtimeconfig.json
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\bin\Debug\net5.0\find_max_2chieu.runtimeconfig.dev.json
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\bin\Debug\net5.0\find_max_2chieu.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\bin\Debug\net5.0\ref\find_max_2chieu.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\bin\Debug\net5.0\find_max_2chieu.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\obj\Debug\net5.0\find_max_2chieu.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\obj\Debug\net5.0\ref\find_max_2chieu.dll
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\obj\Debug\net5.0\find_max_2chieu.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\find_max_2chieu\obj\Debug\net5.0\find_max_2chieu.genruntimeconfig.cache
