@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "xoa_phan_tu/1.0.0": {
+        "runtime": {
+          "xoa_phan_tu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "xoa_phan_tu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
